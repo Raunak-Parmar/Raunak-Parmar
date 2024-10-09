@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raunak Parmar</h1>
-<h3 align="center">An enthusiastic programmer! New to the world</h3>
+<h3 align="center">An enthusiastic programmer! New to the world :P</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunak-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="raunak-parmar" /> </p>
 
