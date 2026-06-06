@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunak-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="raunak-parmar" /> </p>
 
-- 🌱 I’m currently learning **Clerk**
+- 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **Fullstack**
+- 👯 I’m looking to collaborate on **LT**
 
 - 📫 How to reach me **raunakparmar1@gmail.com**
 
